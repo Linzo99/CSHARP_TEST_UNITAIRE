@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{99491D79-6423-4D36-8D86-A3FEC55038BA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BanqueTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Banque/CompteBancaire.cs">
+    <Files>
+      <File FileName="Banque/CompteBancaire.cs" Line="53" Column="9" />
+      <File FileName="BanqueTest/UnitTest1.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ALSADIC32022VTEST" expanded="True">
+            <Node name="Banque" expanded="True">
+              <Node name="CompteBancaire.cs" selected="True" />
+            </Node>
+            <Node name="BanqueTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ALSADIC32022VTEST" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

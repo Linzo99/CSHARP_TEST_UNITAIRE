@@ -1,0 +1,12 @@
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/bin/Debug/net7.0/Banque.deps.json
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/bin/Debug/net7.0/Banque.dll
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/bin/Debug/net7.0/Banque.pdb
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.csproj.AssemblyReference.cache
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.AssemblyInfoInputs.cache
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.AssemblyInfo.cs
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.dll
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/refint/Banque.dll
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/Banque.pdb
+/Users/mac/Projects/ALSADIC32022VTEST/Banque/obj/Debug/net7.0/ref/Banque.dll
